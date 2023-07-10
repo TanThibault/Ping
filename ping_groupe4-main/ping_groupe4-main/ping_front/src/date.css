@@ -1,0 +1,23 @@
+h1 {
+  font-family: "Courier New", Courier, monospace;
+  color: sandybrown;
+  font-size: 12px;
+  position: "fixed";
+}
+
+.date h1 {
+  /*display: inline-block;*/
+  border: 2px solid burlywood;
+  /*width: 125px;*/
+  /*margin:20vh auto 0px auto;*/
+  border-radius: 15px;
+  padding: 5px;
+  background-color: white;
+  right: 0;
+  bottom: 0;
+  width: 32vw;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15;
+  font-family: "Courier New", Courier, monospace;
+  color: sandybrown;
+  font-size: 12px;
+}

@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@fontsource/public-sans": "^5.0.3",
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/icons": "^4.11.3",
+    "@mui/icons-material": "^5.11.16",
+    "@mui/joy": "^5.0.0-alpha.85",
+    "@mui/lab": "^5.0.0-alpha.134",
+    "@mui/material": "^5.13.6",
+    "@mui/styled-engine-sc": "^5.12.0",
+    "@mui/styles": "^5.13.2",
+    "axios": "^1.4.0",
+    "react-codemirror": "^1.0.0",
+    "react-codemirror2-react-17": "^1.0.0",
+    "react-router-dom": "^6.14.1",
+    "react-sidebar": "^3.0.2",
+    "state-pool": "^0.10.0",
+    "styled-components": "^5.3.11"
+  }
+}
